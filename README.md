@@ -1,2 +1,2 @@
 # Pixelatrr
-Website that creates pixel art from uploaded image files
+Pixelatrr is a current project that will create pixel art from user uploaded image files. 
